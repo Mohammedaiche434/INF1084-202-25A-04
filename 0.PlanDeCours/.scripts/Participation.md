@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Participation au 23-09-2025 21:56
+=======
+# Participation au 23-09-2025 21:17
+>>>>>>> 77bad92 (Vérification de la participation)
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
