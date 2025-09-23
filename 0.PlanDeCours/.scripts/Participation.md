@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
  HEAD
  HEAD
@@ -23,6 +24,9 @@
 =======
 # Participation au 23-09-2025 21:38
 >>>>>>> ae622bb (Vérification de la participation)
+=======
+# Participation au 23-09-2025 21:39
+>>>>>>> b90f5aa (Vérification de la participation)
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
