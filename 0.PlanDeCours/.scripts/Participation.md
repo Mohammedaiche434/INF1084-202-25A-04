@@ -1,12 +1,16 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
+ HEAD
+ HEAD
 # Participation au 23-09-2025 21:56
-=======
+
 # Participation au 23-09-2025 21:17
->>>>>>> 77bad92 (Vérification de la participation)
-=======
+ 77bad92 (Vérification de la participation)
+
 # Participation au 23-09-2025 21:21
->>>>>>> 3436d1e (Vérification de la participation)
+ 3436d1e (Vérification de la participation)
+
+# Participation au 23-09-2025 21:29
+ fe21dc5 (Vérification de la participation)
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
