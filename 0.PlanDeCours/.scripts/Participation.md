@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Participation au 23-09-2025 23:25
-=======
-# Participation au 23-09-2025 23:27
->>>>>>> 7c205ccfc2b58bb7981d54ce15c06450967daeca
+# Participation au 24-09-2025 00:10
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
