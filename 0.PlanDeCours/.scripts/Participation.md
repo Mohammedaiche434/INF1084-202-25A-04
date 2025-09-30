@@ -1,32 +1,4 @@
-HEAD
- HEAD
- HEAD
- HEAD
- HEAD
- HEAD
- HEAD
-# Participation au 23-09-2025 21:56
-
-# Participation au 23-09-2025 21:17
- 77bad92 (Vérification de la participation)
-
-# Participation au 23-09-2025 21:21
- 3436d1e (Vérification de la participation)
-
-# Participation au 23-09-2025 21:29
- fe21dc5 (Vérification de la participation)
-=======
-# Participation au 23-09-2025 21:32
->>>>>>> a96e936 (Vérification de la participation)
-=======
-# Participation au 23-09-2025 21:35
->>>>>>> 6606af5 (Vérification de la participation)
-=======
-# Participation au 23-09-2025 21:38
->>>>>>> ae622bb (Vérification de la participation)
-=======
-# Participation au 23-09-2025 21:39
->>>>>>> b90f5aa (Vérification de la participation)
+# Participation au 30-09-2025 22:14
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
