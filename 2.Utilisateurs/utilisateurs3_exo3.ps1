@@ -1,4 +1,4 @@
-# Exercice 3 - Requêtes et filtres
+# utilisateurs3_exo3.ps1 - Exercice 3 : Requêtes et filtres
 System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable = @(
     @{Nom='Dupont'; Prenom='Alice'; Login='adupont'; OU='Stagiaires'},
     @{Nom='Lemoine'; Prenom='Sarah'; Login='slemoine'; OU='Stagiaires'},
@@ -19,5 +19,5 @@ System.Collections.Hashtable System.Collections.Hashtable System.Collections.Has
     @{Nom='Fernandez'; Prenom='Ana'; Login='afernandez'; OU='Stagiaires'}
 )
 
-# Filtre prénom contenant "a"
+# Filtrer tous les utilisateurs dont le prénom contient "a" (maj/min)
 System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable System.Collections.Hashtable | Where-Object { .Prenom -match "(?i)a" } | ForEach-Object { " " }
