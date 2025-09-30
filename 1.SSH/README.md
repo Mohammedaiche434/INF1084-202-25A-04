@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Travail SSH - Latif Muristaga (300150417)
-=======
-<<<<<<< HEAD
 # :key: SSH
 
 [:tada: Participation](.scripts/Participation.md)
@@ -45,7 +41,3 @@ Travail SSH - Latif Muristaga (300150417)
   - [ ] `git add `:id:/README.md
   - [ ] `git commit -m "mon fichier ..."` :id:/README.md
   - [ ] `git push`
-=======
-Travail SSH - Latif Muristaga (300150417)
->>>>>>> 6c02f4f297510977822c3415dbe2933ca92d913e
->>>>>>> 662ffc91a23a81e3736953b59881e391059f2a21
