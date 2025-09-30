@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Participation au 30-09-2025 22:58
+=======
+# Participation au 30-09-2025 22:51
+>>>>>>> bba1e2c (Vérification de la participation)
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
