@@ -8,7 +8,7 @@
 * S’entraîner aux cmdlets PowerShell pour la création, la recherche et la manipulation d’objets.
 * Se préparer aux scripts AD réels.
 
-:bookmark: Nommez vos scripts Powershell avec le format suivant `utilisateurs`[1-4]`.ps1`
+:bookmark: Nommez vos scripts Powershell selon le format suivant `utilisateurs`[1-4]`.ps1`
 
 ---
 
